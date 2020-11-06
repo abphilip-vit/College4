@@ -1,6 +1,6 @@
 # College - CSE4022: Natural Language Processing
 
-### Nat Geo Activity
+### Activity
 https://github.com/allenalvin333/College4/blob/master/Project/A1.ipynb
 
 ### Project
@@ -13,9 +13,10 @@ https://github.com/allenalvin333/College4/blob/master/Project/R3.ipynb
 - 21st August, 2020 - Text classification and Count vectorizer<br/>https://github.com/allenalvin333/College4/blob/master/Lab/P4.ipynb
 - 9th October, 2020 - Named Entity Recognition and Domain-specific Jargon<br/>https://github.com/allenalvin333/College4/blob/master/Lab/P5.ipynb
 - 16th October, 2020 - Regex parser and Chunking<br/>https://github.com/allenalvin333/College4/blob/master/Lab/P6.ipynb
+  
+  
 
-
-# Project
+# Project - Racism: Before and After George Floyd
 
 ### Scraping
 The process of extracting data from a website to retrieve its content. The received input is in HTML format. The tags are cleaned using stopwords and the required segment is saved for further use, usually in a csv format. This is a commonly used technique, the first to do after installing and importing all the necessary packages. I have chosen an article by FSU – Florida State University, to scrape data forgetting the names and coordinates of the capitals of all the states of USA. The scraped data is cleaned, numbers manipulated and allocated into three lists - latitudes, longitudes, and city names
@@ -25,8 +26,10 @@ The process of interpreting and categorizing the emotion or sentiment conveyed b
 “Comma separated value” files are commonly used to transfer or exchange data between applications owing to its wide acceptance. It can be viewed in a tabular form and more importantly, it is editable, making the storing of values extremely easy for programs. For my project, the only part to involve this section, is for saving the calculated sentiment values to the corresponding city names and their coordinates. After receiving the calculated value, it will be written into a CSV file and will be called for plotting the chart, later in the program. 
 ### Display
 This segment focuses on showing the calculated values as a visual representation to the viewer. Chart-studio is a great tool in python (and stand-alone) for displaying data in a visual manner using graphs and charts. Here, the saved CSV files contain the name of the city, the location coordinates (rounded off to two decimal places), and the sentiment value (positive and negative in different files) of that query, from that location. From these, the chart-studio tools take the coordinates from all the rows and plot it on the world map (scope = North America). After that, the sentiment values, in terms of percentages, are taken and a circle is plotted on those locations with the radius representing the value 
+  
+  
 
-# Activity
+# Activity - Comparison of Travel logs using NLTK
 
 ### Sources 
 -	http://www.natgeotraveller.in/six-years-and-counting/
