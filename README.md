@@ -13,6 +13,12 @@ https://github.com/allenalvin333/College4/blob/master/Project/R3.ipynb
 - 21st August, 2020 - Text classification and Count vectorizer<br/>https://github.com/allenalvin333/College4/blob/master/Lab/P4.ipynb
 - 9th October, 2020 - Named Entity Recognition and Domain-specific Jargon<br/>https://github.com/allenalvin333/College4/blob/master/Lab/P5.ipynb
 - 16th October, 2020 - Regex parser and Chunking<br/>https://github.com/allenalvin333/College4/blob/master/Lab/P6.ipynb
+
+### File Terminology
+- A_: Activity
+- DA_: Digital Assignment
+- R_: Project
+- P_: Lab
   
 <br/>
   
@@ -35,6 +41,7 @@ https://github.com/allenalvin333/College4/blob/master/Project/R3.ipynb
 ### My contribution
 -	Parameter-1: Word count for optimal retention. Here I have considered the limits as 700-750 words for an optimal article and hence the highest confidence score. 
 -	Parameter-2: Frequency distribution of words to recognise vocabulary level of the author by seeing the number of repeated words. Under 100 words repeated would give the highest confidence score.
+-   Parameter-3: Cosine Similarity. For this, we need to consider multiple documents by the same author. Hence this parameter is not applicable for the confidence scores
 -	Parameter-4: Part of Speech tagging for finding an optimal number of adjectives or “beautifying words” to keep the article interesting throughout but still avoid bloating of the real content. The limits are given in terms of the difference between the total number of words versus the number of adjectives, and an optimal number is assumed to be between 600-700
 -	Parameter-5: Polysyllabic words do not necessarily increase the complexity of the words, but in a general case, assuming it does, I have given an optimal number to be between 25-35 words with 4 or more syllables
 -	Confidence Score: Instead of a regular approach of pass/fail criteria, I’ve embedded score calculation in all the parameters to measure how each article (even if they’re from multiple authors) stand against the requirements/expectations of the employer and the articles qualifying will be mentioned with their scores.
