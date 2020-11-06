@@ -19,9 +19,9 @@ https://github.com/allenalvin333/College4/blob/master/Lab/D1.ipynb
 
 ### Terminology
 - **A**: Activity
-- **D**: Digital Assignment
-- **R**: Project
 - **P**: Lab
+- **R**: Project
+- **D**: Digital Assignment
   
 <br/>
   
@@ -81,4 +81,4 @@ Spacy is an open source library with multiple functionalities like Part of speec
 <br/>
   
 # Author
-Allen Ben Philipose
+**Allen Ben Philipose**
