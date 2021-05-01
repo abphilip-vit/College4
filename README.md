@@ -4,18 +4,18 @@
 https://github.com/allenalvin333/College_Mini/tree/master/CSE4022_NLP
 
 ### Labs
-- 17th July, 2020 - Frequency and CF distribution<br/>https://github.com/allenalvin333/College4/blob/master/P1.ipynb
-- 24th July, 2020 - Preprocessing: Lexicons and Stemming<br/>https://github.com/allenalvin333/College4/blob/master/P2.ipynb
-- 31st July, 2020 - Text processing pipeline and Web scraping<br/>https://github.com/allenalvin333/College4/blob/master/P3.ipynb
-- 21st August, 2020 - Text classification and Count vectorizer<br/>https://github.com/allenalvin333/College4/blob/master/P4.ipynb
-- 9th October, 2020 - Named Entity Recognition and Domain-specific Jargon<br/>https://github.com/allenalvin333/College4/blob/master/P5.ipynb
-- 16th October, 2020 - Regex parser and Chunking<br/>https://githubd.com/allenalvin333/College4/blob/master/P6.ipynb
+- 17th July, 2020 - Frequency and CF distribution<br/>https://github.com/allenalvin333/College4/blob/master/T1.ipynb
+- 24th July, 2020 - Preprocessing: Lexicons and Stemming<br/>https://github.com/allenalvin333/College4/blob/master/T2.ipynb
+- 31st July, 2020 - Text processing pipeline and Web scraping<br/>https://github.com/allenalvin333/College4/blob/master/T3.ipynb
+- 21st August, 2020 - Text classification and Count vectorizer<br/>https://github.com/allenalvin333/College4/blob/master/T4.ipynb
+- 9th October, 2020 - Named Entity Recognition and Domain-specific Jargon<br/>https://github.com/allenalvin333/College4/blob/master/T5.ipynb
+- 16th October, 2020 - Regex parser and Chunking<br/>https://githubd.com/allenalvin333/College4/blob/master/T6.ipynb
 
 ### Project
 https://github.com/allenalvin333/CollegeP4
 
 ### Digital Assignment
-https://github.com/allenalvin333/College4/blob/master/D1.ipynb
+https://github.com/allenalvin333/College4/blob/master/DA1.ipynb
 
   
 <br/>
