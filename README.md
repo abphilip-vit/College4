@@ -31,6 +31,5 @@ Spacy is an open source library with multiple functionalities like Part of speec
 <br/>
   
 # Author
-**Allen Ben Philipose**
 
-
+#### [``Allen Ben Philipose``](https://abphilip.me/) - 18BIS0043
